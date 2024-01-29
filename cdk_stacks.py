@@ -24,7 +24,7 @@ WebappStack(
     app,
     "PromptChaining-StreamlitWebapp",
     env=env,
-    parent_domain="onrender.com",
+    parent_domain="thirstysheep.com",
 )
 BlogPostStack(
     app,
